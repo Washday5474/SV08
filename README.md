@@ -1,1 +1,1 @@
-# purple-gorilla
+# Sovol SV08 repo
